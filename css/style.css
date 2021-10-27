@@ -1,2 +1,6 @@
 body
 {background-color:blue;}
+p{
+    font-size: large;
+    color: rgb(230, 7, 7);
+}
